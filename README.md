@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Răzvan! 👋
 
-<!--
-**RazvanAndrei2005/RazvanAndrei2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University Politehnica of Bucharest with a strong focus on backend development and object-oriented design. I enjoy bridging theory and practice by building diverse projects, ranging from Java-based games and secure authentication systems to embedded hardware. 
 
-Here are some ideas to get you started:
+* 🔭 Currently working on: Developing an **Event Discovery Platform**, a cross-platform web application with real-time alerts.
+* 🌱 Expanding my skills in: **Java, Spring Boot, RESTful APIs,OOP and Flutter**.
+* ⚡ Fun fact: When I'm not coding, I'm usually producing travel vlogs or hitting the ski slopes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+* **Programming:** Java, C++, Rust
+* **Web:** HTML, CSS, JavaScript, Bootstrap
+* **Databases:** MySQL, MongoDB
+* **Tools & OS:** Git, GitHub, VS Code, Linux, Windows
